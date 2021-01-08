@@ -165,7 +165,7 @@
 		transition: 0.4s ease-in-out;
 	}
 
-	.header_burger-menu-links a li{
+	.header_burger-menu-links li{
 		margin-bottom: 20px;
 	}
 }
