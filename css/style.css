@@ -1,4 +1,3 @@
-
 /*Стилия для страницы index.html*/
 .content h2{
 	color: #2c2c2c;
@@ -147,7 +146,7 @@
 }
 
 .feedback_name, .feedback_email, .feedback_text, .feedback_code{
-	width: 100%;
+	width: 99.5%;
 	height: 23px;
 	box-shadow: 0 0 10px rgba(255, 186, 0, 0), inset 1px 1px 2px rgba(0, 0, 0, 0.12);
 	border: 1px solid #aeaeae;
@@ -466,7 +465,7 @@
 }
 
 .register-table tr td input[type = text], .register-table tr td input[type = email], .register-table tr td input[type = password]{
-	width: 100%;
+	width: 99.5%;
 	height: 23px;
 	box-shadow: 0 0 10px rgba(255, 186, 0, 0), inset 1px 1px 2px rgba(0, 0, 0, 0.12);
 	border: 1px solid #aeaeae;
@@ -475,7 +474,7 @@
 	transition: 0.4s ease-in-out;
 }
 
-.register-table tr td input[type = text]:focus, .register-table tr td input[type = password]:focus{
+.register-table tr td input[type = text]:focus, .register-table tr td input[type = email]:focus, .register-table tr td input[type = password]:focus{
 	box-shadow: 0 0 0 2px rgba(255, 186, 0, 0.5);
 }
 
